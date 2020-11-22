@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/uno-multiplayer-game/static/css/main.9ec6d7f4.chunk.css",
-    "main.js": "/uno-multiplayer-game/static/js/main.fa6242e2.chunk.js",
-    "main.js.map": "/uno-multiplayer-game/static/js/main.fa6242e2.chunk.js.map",
+    "main.js": "/uno-multiplayer-game/static/js/main.8e4b0801.chunk.js",
+    "main.js.map": "/uno-multiplayer-game/static/js/main.8e4b0801.chunk.js.map",
     "runtime-main.js": "/uno-multiplayer-game/static/js/runtime-main.e033970e.js",
     "runtime-main.js.map": "/uno-multiplayer-game/static/js/runtime-main.e033970e.js.map",
     "static/js/2.cc64a17a.chunk.js": "/uno-multiplayer-game/static/js/2.cc64a17a.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e033970e.js",
     "static/js/2.cc64a17a.chunk.js",
     "static/css/main.9ec6d7f4.chunk.css",
-    "static/js/main.fa6242e2.chunk.js"
+    "static/js/main.8e4b0801.chunk.js"
   ]
 }
