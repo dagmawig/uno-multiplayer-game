@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/uno-multiplayer-game/static/css/main.9ec6d7f4.chunk.css",
-    "main.js": "/uno-multiplayer-game/static/js/main.9fa5a228.chunk.js",
-    "main.js.map": "/uno-multiplayer-game/static/js/main.9fa5a228.chunk.js.map",
+    "main.css": "/uno-multiplayer-game/static/css/main.6d5d48e0.chunk.css",
+    "main.js": "/uno-multiplayer-game/static/js/main.499df525.chunk.js",
+    "main.js.map": "/uno-multiplayer-game/static/js/main.499df525.chunk.js.map",
     "runtime-main.js": "/uno-multiplayer-game/static/js/runtime-main.e033970e.js",
     "runtime-main.js.map": "/uno-multiplayer-game/static/js/runtime-main.e033970e.js.map",
     "static/js/2.cc64a17a.chunk.js": "/uno-multiplayer-game/static/js/2.cc64a17a.chunk.js",
     "static/js/2.cc64a17a.chunk.js.map": "/uno-multiplayer-game/static/js/2.cc64a17a.chunk.js.map",
     "index.html": "/uno-multiplayer-game/index.html",
-    "static/css/main.9ec6d7f4.chunk.css.map": "/uno-multiplayer-game/static/css/main.9ec6d7f4.chunk.css.map",
+    "static/css/main.6d5d48e0.chunk.css.map": "/uno-multiplayer-game/static/css/main.6d5d48e0.chunk.css.map",
     "static/js/2.cc64a17a.chunk.js.LICENSE.txt": "/uno-multiplayer-game/static/js/2.cc64a17a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/uno-multiplayer-game/static/media/uno-home.d799be3e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e033970e.js",
     "static/js/2.cc64a17a.chunk.js",
-    "static/css/main.9ec6d7f4.chunk.css",
-    "static/js/main.9fa5a228.chunk.js"
+    "static/css/main.6d5d48e0.chunk.css",
+    "static/js/main.499df525.chunk.js"
   ]
 }
